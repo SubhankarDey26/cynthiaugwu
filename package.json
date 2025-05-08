@@ -1,0 +1,12 @@
+{
+  "name": "cynthiaugwu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "deploy": "gh-pages -d ."
+  },
+  "homepage": "https://subhankardey26.github.io/cynthiaugwu",
+  "author": "",
+  "license": "ISC"
+}
